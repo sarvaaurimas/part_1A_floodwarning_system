@@ -1,0 +1,4 @@
+{
+  "test_geo.py::test_rivers_by_station_number": true,
+  "test_geo.py::test_stations_within_radius": true
+}
